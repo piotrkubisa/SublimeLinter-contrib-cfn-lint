@@ -1,7 +1,7 @@
 SublimeLinter-contrib-cfn-lint
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-cfn-lint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-cfn-lint)
+[![Build Status](https://travis-ci.org/piotrkubisa/SublimeLinter-contrib-cfn-lint.svg?branch=master)](https://travis-ci.org/piotrkubisa/SublimeLinter-contrib-cfn-lint)
 
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [cfn-lint](https://github.com/awslabs/cfn-python-lint). It will be used with files that have the yaml (CloudFormation) syntax.
 
